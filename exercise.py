@@ -28,7 +28,3 @@ friends = {
     'Sami': 26,
     'Harsh': 25
 }
-
-print(movies)
-print(cities)
-print(friends)
