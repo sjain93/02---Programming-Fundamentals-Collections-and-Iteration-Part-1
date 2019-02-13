@@ -1,5 +1,5 @@
 fav_colours = ['blue', 'navy', 'black', 'white', 'grey']
-friend_age = [25, 25, 26, 26, 25]
+friend_age = [25, 25, 26, 26, 25, 42, 45]
 coin_flip = ['T', 'H','T','T','T']
 fav_artists = ['A7X', 'Metallica', 'Trivium']
 
