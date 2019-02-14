@@ -8,12 +8,9 @@ new_movies =    {
 }
 
 phone = [[1,2,3], [4,5,6], [7, 8, 9], ['*', 0, '#']]
-print(phone)
+# print(phone)
 
-countries = {
-{
-  'Australia': {'Continent': 'Australia', 'Island': True},
-  'India': {'Continent': 'Asia', 'Island': False},
-  'Canada': {'Continent': 'North America', 'Island': False}
-}
-}
+countries = [  {'Country':'Australia', 'Continent': 'Australia', 'Island': True},
+ {'Country':'India', 'Continent': 'Asia', 'Island': False},
+ {'Country':'Canada', 'Continent': 'North America', 'Island': False}
+ ]
