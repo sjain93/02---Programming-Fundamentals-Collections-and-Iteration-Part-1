@@ -19,7 +19,7 @@ movies = {
 cities = {
     'Toronto': 6000000,
     'Montreal': 3000000,
-    'Delhi':42000000
+    'Delhi': 42000000
 }
 
 friends = {
