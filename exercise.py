@@ -11,7 +11,7 @@ my_words = {
 }
 
 movies = {
-  'The Shawshand Redemption': 1994,
+  'The Shawshank Redemption': 1994,
   'The Godfather': 1975,
   'The Dark Knight': 2008
 }
@@ -26,5 +26,7 @@ friends = {
     'Rishabh': 25,
     'Maria': 26,
     'Sami': 26,
-    'Harsh': 25
+    'Harsh': 25,
+    'Abra': 55,
+    'Cadabra': 42
 }
